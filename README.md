@@ -1,4 +1,4 @@
-### Hi there 👋
+### 💬 안녕하세요! 프론트엔드를 꿈꾸는 양유정입니다
 
 <!--
 **yourwjd/yourwjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
