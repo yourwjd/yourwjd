@@ -3,7 +3,6 @@
 <div align = center>
 
 ## ☀️ Hi There!
-***
 
 안녕하세요 저의 깃허브에 오신 것을 환영합니다😆   
 **프론트엔드**가 되기 위해 공부 중이며 그 과정을 기록하고 있습니다✏️✏️
@@ -12,7 +11,6 @@
 <br>
 
 ## 📚 My Tech Stacks
-***
 <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -23,11 +21,10 @@
 <br>
 <br>
 
-## 🌳🌳
-***
+<!-- ## 🌳🌳
 <br>
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm) -->
 
 </div>
 <!--
