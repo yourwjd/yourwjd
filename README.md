@@ -24,6 +24,12 @@
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <br>
 <br>
+웹 표준을 지키는 HTML <br>
+애니메이션과 반응형 웹 구현이 가능한 css <br>
+ES6 문법을 사용한 자바스크립트 <br>
+자바스크립트로 바꿀 수 있는 JQUERY <br>
+GIT을 사용한 GITHUB 관리
+<br>
 <br>
 
 <!-- ## 🌳🌳
