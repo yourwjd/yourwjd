@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=🙋Welcome!&fontAlign=50&fontAlignY=40)
 
-<div align = center>ㅓㅓㅓ
+<div align = center>
 
 ## ☀️ Hi There!
 
